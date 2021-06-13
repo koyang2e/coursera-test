@@ -11,11 +11,11 @@ h1{
 }
 .sec-title{
 	vertical-align: middle;
-	margin-top : -5px;
-	margin-right: -5px;
+	margin-top : -1px;
+	margin-right: -1px;
 	float: right;
 	width : 35%;
-	border: black 5px solid;
+	border: black 1px solid;
 	text-align: center;
 	font-size: 1.16 vmin;
 	padding-top: 1px;
@@ -32,7 +32,7 @@ h1{
 	margin-right : 2%;
 	margin-top: 2%;
 	margin-bottom: 2%;
-	border: 5px black solid;
+	border: 1px black solid;
 
 
 }
